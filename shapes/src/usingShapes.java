@@ -6,7 +6,7 @@ public class usingShapes{
 public static void main(String []args)
 {
 
-   int length, width, radius;
+   int  length, width, radius;
    int selection =0;
    String more;
 

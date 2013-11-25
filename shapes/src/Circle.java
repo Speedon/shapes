@@ -3,7 +3,7 @@
 public class Circle extends Shape
 {
 
-	private int radius;
+	private  int radius;
 	private static final double PI= 3.142;
 
 
