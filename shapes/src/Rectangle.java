@@ -4,7 +4,7 @@ public class Rectangle extends Shape
 
    private int length, width;
 
-   public Rectangle(int l, int w)
+   public Rectangle(int l, int   w)
    {
 
 	 super();
